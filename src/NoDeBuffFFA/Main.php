@@ -1,10 +1,10 @@
 <?php
 
 
-namespace FFA;
+namespace NodeBuffFFA;
 
-use FFA\entity\EntityJoinFFA;
-use FFA\task\EntityTag;
+use NodeBuffFFA\entity\EntityJoinFFA;
+use NoDeBuffFFA\task\EntityTag;
 use pocketmine\Player;
 use pocketmine\Server;
 use pocketmine\command\Command;
