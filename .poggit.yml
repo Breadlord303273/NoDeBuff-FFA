@@ -1,0 +1,8 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/Breadlord303273/NoDeBuff-FFA
+build-by-default: true
+branches:
+- main
+projects:
+  NoDeBuff-FFA:
+    path: ""
+...
