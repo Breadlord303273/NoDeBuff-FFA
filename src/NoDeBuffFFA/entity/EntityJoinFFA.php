@@ -1,7 +1,7 @@
 <?php
 
  
-namespace FFA\entity;
+namespace NoDeBuffFFA\entity;
 
 use pocketmine\entity\Human;
 use pocketmine\entity\Entity;
